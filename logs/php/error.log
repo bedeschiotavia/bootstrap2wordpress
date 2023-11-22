@@ -1,0 +1,10 @@
+[22-Nov-2023 12:09:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /Users/otaviamontanhini/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/otaviamontanhini/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php on line 10
+[22-Nov-2023 12:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_head() in /Users/otaviamontanhini/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/otaviamontanhini/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php on line 10
+[22-Nov-2023 13:51:32 UTC] PHP Parse error:  syntax error, unexpected 'wp_footer' (T_STRING) in /Users/otaviamontanhini/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php on line 110
+[22-Nov-2023 13:51:44 UTC] PHP Parse error:  syntax error, unexpected 'wp_footer' (T_STRING) in /Users/otaviamontanhini/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php on line 110
